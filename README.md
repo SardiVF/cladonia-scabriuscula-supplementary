@@ -15,26 +15,26 @@ This repository contains the supplementary material accompanying the manuscript.
 
 ### Figures S1–S21
 
-**Fig. S19** shows the UHPLC–HRMS base peak chromatograms of the two extracts, **Fig. S20** the chemical structures of the annotated compounds, and **Fig. S21** the two-dimensional interaction diagrams of the top-ranked metabolites and acarbose with sucrase-isomaltase (PDB 3LPP). **Figs. S1–S18** show the high-resolution mass spectra (negative ion mode, M–H⁻) of the 18 metabolites annotated in the ethyl acetate (ECS) and methanol (MCS) extracts of *C. scabriuscula*:
+**Fig. S1** shows the UHPLC–HRMS base peak chromatograms of the two extracts, **Fig. S20** the chemical structures of the annotated compounds, and **Fig. S21** the two-dimensional interaction diagrams of the top-ranked metabolites and acarbose with sucrase-isomaltase (PDB 3LPP). **Figs. S2–S19** show the high-resolution mass spectra (negative ion mode, M–H⁻) of the 18 metabolites annotated in the ethyl acetate (ECS) and methanol (MCS) extracts of *C. scabriuscula*:
 
-- **Fig. S1** Azelaic acid
-- **Fig. S2** Undecanedioic acid
-- **Fig. S3** D-Glucitol monostearate
-- **Fig. S4** Icosanedioic acid bis(2,3-dihydroxypropyl) ester
-- **Fig. S5** 9Z-Octadecenedioic acid
-- **Fig. S6** 13-(β-D-Glucosyloxy)docosanoic acid
-- **Fig. S7** Portentol
-- **Fig. S8** 9-Oxooctadecanoic acid
-- **Fig. S9** Heptadecyl D-glucoside
-- **Fig. S10** allo-Protolichestrinic acid
-- **Fig. S11** Linderanolide
-- **Fig. S12** 3,5-Dimethylorsellinic acid
-- **Fig. S13** Ethyl everninate
-- **Fig. S14** Ethyl 4-O-methylolivetolcarboxylate
-- **Fig. S15** Menegazziaic acid
-- **Fig. S16** Cryptostictic acid
-- **Fig. S17** Hyposalazinic acid
-- **Fig. S18** Homosekikaic acid
+- **Fig. S2** Azelaic acid
+- **Fig. S3** Undecanedioic acid
+- **Fig. S4** D-Glucitol monostearate
+- **Fig. S5** Icosanedioic acid bis(2,3-dihydroxypropyl) ester
+- **Fig. S6** 9Z-Octadecenedioic acid
+- **Fig. S7** 13-(β-D-Glucosyloxy)docosanoic acid
+- **Fig. S8** Portentol
+- **Fig. S9** 9-Oxooctadecanoic acid
+- **Fig. S10** Heptadecyl D-glucoside
+- **Fig. S11** allo-Protolichestrinic acid
+- **Fig. S12** Linderanolide
+- **Fig. S13** 3,5-Dimethylorsellinic acid
+- **Fig. S14** Ethyl everninate
+- **Fig. S15** Ethyl 4-O-methylolivetolcarboxylate
+- **Fig. S16** Menegazziaic acid
+- **Fig. S17** Cryptostictic acid
+- **Fig. S18** Hyposalazinic acid
+- **Fig. S19** Homosekikaic acid
 
 ### Table S1
 
