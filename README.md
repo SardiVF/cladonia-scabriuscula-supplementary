@@ -10,12 +10,12 @@ This repository contains the supplementary material accompanying the manuscript.
 
 | File | Description |
 | --- | --- |
-| `Supplementary_Material_RPS.docx` | Full supplementary document (Figures S1–S19 and Table S1) |
+| `Supplementary_Material_RPS.docx` | Full supplementary document (Figures S1–S21 and Table S1) |
 | `Table_S1_molecular_docking.csv` | Machine-readable version of Table S1 (docking scores and interacting residues for the 18 identified metabolites and acarbose against sucrase-isomaltase, PDB 3LPP) |
 
-### Figures S1–S19
+### Figures S1–S21
 
-**Fig. S19** shows the UHPLC–HRMS base peak chromatograms of the two extracts. **Figs. S1–S18** show the high-resolution mass spectra (negative ion mode, M–H⁻) of the 18 metabolites annotated in the ethyl acetate (ECS) and methanol (MCS) extracts of *C. scabriuscula*:
+**Fig. S19** shows the UHPLC–HRMS base peak chromatograms of the two extracts, **Fig. S20** the chemical structures of the annotated compounds, and **Fig. S21** the two-dimensional interaction diagrams of the top-ranked metabolites and acarbose with sucrase-isomaltase (PDB 3LPP). **Figs. S1–S18** show the high-resolution mass spectra (negative ion mode, M–H⁻) of the 18 metabolites annotated in the ethyl acetate (ECS) and methanol (MCS) extracts of *C. scabriuscula*:
 
 - **Fig. S1** Azelaic acid
 - **Fig. S2** Undecanedioic acid
